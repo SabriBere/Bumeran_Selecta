@@ -53,7 +53,7 @@ Próximamente!
 |-------- |--------|
 
 
-## Install and Instrucction of user. 
+## Install and Instrucction of use. 
 
 **_**Set up:**_**
 
