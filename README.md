@@ -1,8 +1,14 @@
-# Bumeran_Selecta
+# Proyecto Profesional | Bumeran_Selecta :woman_teacher:
 
-Bienvenidos a **_Bumeran Selecta_** un proyecto realizado por Ariel Ferencak, Lorenzo Olmedo, Mariangel Ruíz, Matías Goni y Sabrina Demetrio, alumos de Plataforma 5.
+## About the proyect.
 
-Este proyecto consiste en la reproducción de los servicios ofrecidos por la compañía Jobint S.A a través de su portal Bumeran Selecta, cuyo propósito tiene como finalidad proveer de reclutadores a empresas que no cuentan con un departamento de Recursos Humanos o necesitan cubrir puestos de trabajo de forma expeditiva.
+Bienvenidos a [**_Bumeran Selecta_**](https://www.bumeran.com.ar/selecta/) un proyecto que consistió en la reproducción de los servicios ofrecidos por la compañía Jobint S.A a través de su portal Bumeran Selecta, cuyo propósito tiene como finalidad proveer de reclutadores a empresas que no cuentan con un departamento de Recursos Humanos o necesitan cubrir puestos de trabajo de forma expeditiva.
+
+un proyecto realizado por Ariel Ferencak, Lorenzo Olmedo, Mariangel Ruíz, Matías Goni y Sabrina Demetrio, alumos de Plataforma 5.
+
+
+
+## Install and Instrucction of user. 
 
 **_**Set up:**_**
 
