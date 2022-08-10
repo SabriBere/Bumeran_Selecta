@@ -25,7 +25,7 @@ Bienvenidos a [**_Bumeran Selecta_**](https://www.bumeran.com.ar/selecta/) un pr
 ## :heavy_check_mark: Achievements:
 <li>Desempeñe en tareas de front - end. </li>
 <li>Logre la persistencia de la sesión, registro y logueo de usuario.</li>
-<li>Dasarrollé las vistas del Home, Login, Register, Reclutadores y Estadisticas, alcanzando que el cliente obtenga una experiencia satisfactoria al buscar reclutadores por área, país y/o nombre. Además de visualizar las estadisticas del sitio.</li>
+<li>Dasarrollé las vistas del Home, Login, Register, Reclutadores y Estadisticas, alcanzando que el cliente obtenga una experiencia satisfactoria dentro del sitio.</li>
 
 ## :dolls: Team Developers:
 
